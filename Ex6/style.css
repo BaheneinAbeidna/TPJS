@@ -1,0 +1,34 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #318acf;
+  }
+  
+  .D {
+    background: rgb(43, 130, 218);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    border-radius: 50px;
+  }
+  
+  .D input, .D button {
+    margin: 10px;
+    padding: 10px;
+    font-size: 16px;
+    background-color: #72aedc;
+    border-radius: 10px;
+  }
+ 
+  
+  .resultat {
+    margin-top: 10px;
+    font-size: 18px;
+    font-weight: bold;
+    color: #333;
+  }
